@@ -9,7 +9,6 @@ C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\FGC
 C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\FGCSerbiaWeb.csproj.CoreCompileInputs.cache
 C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\FGCSerbiaWeb.RazorAssemblyInfo.cache
 C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\FGCSerbiaWeb.RazorAssemblyInfo.cs
-C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\FGCSerbiaWeb.AssemblyInfoInputs.cache
 C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\FGCSerbiaWeb.AssemblyInfo.cs
 C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\FGCSerbiaWeb.TagHelpers.input.cache
@@ -36,3 +35,4 @@ C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\FGC
 C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\FGCSerbiaWeb.dll
 C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\FGCSerbiaWeb.pdb
 C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\FGCSerbiaWeb.csproj.CopyComplete
+C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
