@@ -5,7 +5,6 @@ C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\bin\Debug\netcoreapp2.1\FGC
 C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\bin\Debug\netcoreapp2.1\FGCSerbiaWeb.pdb
 C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\bin\Debug\netcoreapp2.1\FGCSerbiaWeb.Views.dll
 C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\bin\Debug\netcoreapp2.1\FGCSerbiaWeb.Views.pdb
-C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\FGCSerbiaWeb.csprojAssemblyReference.cache
 C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\FGCSerbiaWeb.csproj.CoreCompileInputs.cache
 C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\FGCSerbiaWeb.RazorAssemblyInfo.cache
 C:\Users\ciiv\source\repos\FGCSerbiaWeb\FGCSerbiaWeb\obj\Debug\netcoreapp2.1\FGCSerbiaWeb.RazorAssemblyInfo.cs
